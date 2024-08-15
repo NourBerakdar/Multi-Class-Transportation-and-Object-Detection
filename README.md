@@ -16,7 +16,7 @@
 **Model Architecture and Training:**
 
 > * I experimented with several pre-trained models, including ResNet50, CNN, and VGG. Although I initially considered using YOLO for object detection, an unfortunate incident occurred on August 14, 2024, after 6 PM in Syria,where the dataset was suddenly deleted from the site before I could finalize the YOLO model.
-![image.png](attachment:31cfff86-545a-4564-bffc-64f542a40537.png)
+
 
 > * During training, I encountered several challenges, particularly with the bounding box predictions. Despite adjusting various hyperparameters and loss functions, the models often produced bounding boxes that did not align correctly with the objects in the images.
 
